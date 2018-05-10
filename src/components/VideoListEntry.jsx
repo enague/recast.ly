@@ -4,6 +4,8 @@ var VideoListEntry = (props) => {
   var handleClick = function(e) {
     console.log(e);
   }
+
+  // console.log(props);
   
   return (
     <div className="video-list-entry media">
